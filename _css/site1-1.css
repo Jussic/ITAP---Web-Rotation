@@ -1,0 +1,88 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Favorite Music</title>
+<link rel="stylesheet" type="text/css" href="site1.css"/>
+</head>
+
+<body>
+<h1><strong> Favorite Music </strong></h1>
+<ol>
+  <li><a href="#Country">Country</a></li>
+  <li><a href="#HipHop">Hip Hop/ R 'n B</a></li>
+  <li><a href="#Reggae">Reggae</a></li>
+</ol>
+
+<h2><a name="Country" id="Country"></a><a href="http://en.wikipedia.org/wiki/Country_music">Country</a></h2>
+<h3><strong>ARTISTS</strong></h3>
+<ul>
+  <li>Carrie Underwood 
+    <ul>
+      <li><a href="https://www.youtube.com/watch?v=LraOiHUltak&amp;feature=kp">Temporary Home</a></li>
+    </ul>
+  </li>
+  <li>Keith Urban
+    <ul>
+      <li><a href="https://www.youtube.com/watch?v=wFj9ylA043A&amp;feature=kp">You Look Good In My Shirt</a></li>
+    </ul>
+  </li>
+  <li>Martina Macbride 
+    <ul>
+      <li><a href="https://www.youtube.com/watch?v=KtNYA4pAGjI&amp;feature=kp">Concrete Angel</a></li>
+    </ul>
+  </li>
+</ul>
+<h2><img src="../images/My Images/CountrySong.jpeg" width="238" height="160" alt="Country " /></h2>
+<h2>&nbsp;</h2>
+<h2><a name="HipHop"id="HipHop"></a><a href="http://en.wikipedia.org/wiki/Hip_hop_music">HipHop</a></h2>
+<h3><strong>ARTISTS</strong></h3>
+<ul>
+  <li>Lupe Fiasco 
+    <ul>
+      <li><a href="https://www.youtube.com/watch?v=vCf-ffDzopc&amp;feature=kp">Go Go Gadget Flow </a></li>
+    </ul>
+  </li>
+  <li>Jhenae Aiko
+    <ul>
+      <li><a href="https://www.youtube.com/watch?v=UoIpx1ZxFeM">Bed Peace </a></li>
+    </ul>
+  </li>
+  <li>Jason Derulo 
+    <ul>
+      <li><a href="https://www.youtube.com/watch?v=2YDvKk1Ay-k">Vertigo</a></li>
+    </ul>
+  </li>
+</ul>
+<p>&nbsp;</p>
+<h2><img src="../images/My Images/HipHop.jpeg" width="218" height="167" alt="Hip Hop" /></h2>
+<h2>&nbsp;</h2>
+<h2><a name="Reggae" id="Reggae"></a><a href="http://en.wikipedia.org/wiki/Reggae">Reggae</a></h2>
+<h3>ARTISTS</h3>
+<ul>
+  <li>Ziggy Marley 
+    <ul>
+      <li><a href="https://www.youtube.com/watch?v=r-eXYJnV3V4">Love Is My Religion</a></li>
+    </ul>
+  </li>
+  <li>The Wailers
+    <ul>
+      <li><a href="https://www.youtube.com/watch?v=2XiYUYcpsT4">I Shot The Sheriff</a></li>
+    </ul>
+  </li>
+  <li>Bob Marley
+    <ul>
+      <li><a href="https://www.youtube.com/watch?v=S5FCdx7Dn0o">Buffalo Soldier </a></li>
+    </ul>
+  </li>
+</ul>
+<p>&nbsp;</p>
+<p><img src="../images/My Images/Reggae.jpeg" width="284" height="177" alt="Reggae" /></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</body>
+</html>

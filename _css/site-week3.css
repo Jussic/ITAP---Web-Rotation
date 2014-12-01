@@ -1,0 +1,86 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body { font-family: Verdana, Arial, Helvetica, sans-serif;
+font-size:12px;
+background-color:#676767;
+background-image:url(../images/gradient-bg.jpg);
+background-position:bottom;
+background-repeat:repeat-x;
+}
+
+h1 { 
+letter-spacing: 2px;
+font-variant:small-caps;
+color:#ffffff;
+}
+
+ul { list-style-type:none;
+padding: 0;
+margin: 0;
+
+}
+
+ul li { margin: 5px 0 10px 10px;}
+
+ul li a { 
+padding: 2px 2px 2px 2px;
+text-decoration: none;
+display:block;
+width: 70%;
+font-size: 125%;
+font-weight:bold;
+background-color:#4E7171;
+border: #333333 1px solid;
+color:#FFFFFF;
+margin-left: 0;
+z-index: 2;
+}
+
+ul li a:hover { background-color:#304B44; width: 70%;}
+
+h2 { background-color:#4E7171; 
+color:#FFFFFF;
+padding: 5px;
+border: #333333 1px solid;
+}
+
+blockquote { border-left: #666666 3px solid;
+padding-left: 10px; }
+
+#container {
+background-color:#CCCCCC; 
+width: 90%; 
+margin-left:auto; 
+margin-right:auto;
+}
+
+#leftContent { 
+float:left; 
+width: 20%; 
+z-index: 1;
+}
+
+#navigation { margin-top: 12px; }
+
+#centerContent { 
+float:left; 
+width: 75%; 
+padding-top: expression("10px");
+}
+
+#footer {clear:both;}
+
+#footer p {
+text-align:center; 
+padding: 20px;
+}
+
+#sign {
+position:fixed; 
+bottom: 0; 
+left: 0; 
+width: 175px; 
+height: 254px; 
+background-image:url(../images/guy-with-sign.gif);
+}

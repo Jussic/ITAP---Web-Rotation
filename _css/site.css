@@ -1,0 +1,35 @@
+@charset "UTF-8";
+/* CSS Document */
+
+h1 { color: #A1EE25;}
+h2 { background-color:#FC6; width: 50%;}
+
+body { background-color:#999; font-family:Arial, Helvetica, sans-serif; font-size:24px;}
+
+ul li a { background-color: #3CF; width: 400px; display:block; border: 1px green solid; padding:10px; margin:10px; text-decoration:none;}
+
+ul{list-style-type:none;}
+
+ul li a:hover{ border:25px orange dotted; background-color: #000; color: #F00,}
+
+.fave {background-color:#93F; color: #CCC;} 
+
+#worst{ background-color: #060; color:#0FF;}
+
+p.fave{ width:10%x;}
+
+ol li .fave{ width:50%; background-color: #0F0; display block;}
+
+div#nav{solid blue; background-color:#F66; float:left; width:20%; margin-right: 10px}
+
+#content{ background-color:#9F0; float:left; width:79%; }
+
+#wrapper { background-color:#FF0; width:90%; margin:0 auto;}
+
+.clearfix { clear:both;}
+
+<!-- COMMENTS  HW - At least one ID and lots of classes! --> 
+
+<!--.fave {background-color:#93F; color: #CCC;} (Choose Fave Movie and Color It. -->
+
+<!-- Classes are able to applied to muyltiple elements (Everything) & IDs can only be apllied to one element (Only One Thing) Classes start with a period 

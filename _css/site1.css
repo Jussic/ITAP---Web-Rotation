@@ -1,0 +1,24 @@
+@charset "UTF-8";
+/* CSS Document */
+
+h1{ color: #FC0;}
+h2{ color: #C9D; background-color: #FC0; width:100px;}
+h3 {color: #C0C;}
+
+body{ background-color: #6CF; font-family:Tahoma, Geneva, sans-serif; font-style: normal; font-size:16px; }
+
+ol li a {background-color: #96F; width: 145px; display:block; border: 2px green solid; padding:15px; margin:12px; text-decoration: underline;}
+
+ol{ list-style-type: none;} 
+
+ol li a:hover{ border:25px orange dotted; background-color: #000; color: #F00;}
+.fave{ background-color:#F9C; color:#CCC; width:100px;}
+
+#worst{ background-color:#F00; color:#0FF;}
+
+p.fave{width:10%px;} 
+
+ul li .fave { background-color:#3F9,; width:200px; display:block;}
+
+<!-- Ask about what this attribute does? -->
+ 
